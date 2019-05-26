@@ -1,4 +1,4 @@
-from api import Good, Invoice, InvoiceBuilder
+from gen_bill.api import Good, Invoice, InvoiceBuilder
 
 if __name__ == '__main__':
 
